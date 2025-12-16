@@ -1,6 +1,6 @@
-package main
+package helloworld
 
-func main() {
+func hello() {
 	println(Hello("", ""))
 }
 
