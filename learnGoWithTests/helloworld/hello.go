@@ -1,9 +1,5 @@
 package helloworld
 
-func hello() {
-	println(Hello("", ""))
-}
-
 func Hello(name string, language string) string {
 	if name == "" {
 		name = "world"
